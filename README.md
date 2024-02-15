@@ -103,7 +103,7 @@ See [doc/notes](doc/notes/README.md).
 
 Javadoc can be found [here](https://over-run.github.io/overrungl-doc/).
 
-The documentation of OpenGL can be found [here](https://registry.khronos.org/OpenGL-Refpages/gl4/) and [here](https://docs.gl/).
+The documentation of OpenGL can be found from [references](https://registry.khronos.org/OpenGL-Refpages/gl4/) and [docs.gl](https://docs.gl/).
 
 ### Credits
 
