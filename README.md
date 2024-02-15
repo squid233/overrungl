@@ -34,7 +34,7 @@ You must enable the access of OverrunGL by adding a VM argument or a manifest at
 --enable-preview-access=overrungl.core,...
 ```
 
-## Using as a Dependency
+## Import as a Dependency
 
 Currently, we are developing with the first version,
 and it uses preview features, which prevent users from using newer JDKs,
